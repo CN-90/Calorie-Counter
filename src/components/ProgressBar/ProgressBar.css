@@ -1,0 +1,21 @@
+.progress-container {
+  margin: 0 auto; 
+  margin-top: 10%;
+  width: 65%;
+}
+
+.progress {
+  margin: 0 auto;
+}
+
+.progressbar-date {
+  margin-bottom: 3%;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.progress-count {
+  text-align: right;
+  margin-top: 1%;
+}
